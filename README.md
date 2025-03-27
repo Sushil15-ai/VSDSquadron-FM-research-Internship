@@ -105,5 +105,14 @@ vshttps://github.com/user-attachments/assets/6b44cb89-9789-46ac-a4a6-6eace46933b
 
 **Objective:** Implement a UART loopback mechanism where transmitted data is immediately received back, facilitating testing of UART functionality.
 
+Block Diagram
+
+![image](https://github.com/user-attachments/assets/98066c76-2be3-4e93-b966-aeaa0b6bc331)
+
+Testing Results
+
+![image](https://github.com/user-attachments/assets/63a66f6b-e2e4-4802-b641-75f567623adc)
+
+
 ![image](https://github.com/user-attachments/assets/c22fb5d4-9b5a-43c4-b78d-bc6e571da982)
 
