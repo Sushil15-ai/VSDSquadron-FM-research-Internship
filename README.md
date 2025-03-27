@@ -86,12 +86,24 @@
     * Follow the provided Makefile: [Makefile](https://github.com/thesourcerer8/VSDSquadron_FM/blob/main/led_blue/Makefile)
         * Change directory to the `led_blue` directory.
         * Run `make clean` to clear previous builds.
+
+![image](https://github.com/user-attachments/assets/0cb3ea9e-5f26-4eac-95b6-a39f0c818f4a)
         * Run `make build` to compile the design.
+
+![image](https://github.com/user-attachments/assets/df62da5d-2428-403b-b3f9-d060e6ad82bc)
         * Run `sudo make flash` to program the FPGA board.
+
+![image](https://github.com/user-attachments/assets/ee489ddb-890f-4f4d-9bca-6bca83349539)
 
 * **Observation:**
     * Observe the RGB LED behavior to confirm successful programming.
+
+vshttps://github.com/user-attachments/assets/6b44cb89-9789-46ac-a4a6-6eace46933b8
+
  
 ## Task 2: Using UART
 
 **Objective:** Implement a UART loopback mechanism where transmitted data is immediately received back, facilitating testing of UART functionality.
+
+![image](https://github.com/user-attachments/assets/c22fb5d4-9b5a-43c4-b78d-bc6e571da982)
+
